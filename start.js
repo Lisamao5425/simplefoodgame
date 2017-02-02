@@ -1,5 +1,3 @@
-console.log("RSP script imported!!!");
-
 
 function init(){
 
