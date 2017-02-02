@@ -1,0 +1,78 @@
+
+
+body {
+	text-align: center;
+	background-color: black;
+}
+
+
+#introText{
+color: white;
+font-family: Impact;
+font-size:50px;
+position:center;
+margin:60px;
+margin-top: 0px;
+}
+
+#burgerText{
+color: white;
+font-family: Impact;
+font-size:40px;
+} 
+
+#text{
+color: white;
+font-family: Chalkduster;
+font-size:40px;
+margin:70px;
+margin-top: 0px;
+
+}
+
+#vegeText{
+color: white;
+font-family: Impact;
+font-size:40px;
+}
+
+#video {
+	margin: 40px;
+}
+
+.yes,.no{
+  background-color: black;
+  font-size: 40px;
+  color:white;
+  font-family:Chalkduster;
+  border:none; 
+  margin:60px;
+  margin-top:0px;
+}
+
+.playagain{
+  background-color: black;
+  font-size: 30px;
+  color:white;
+  font-family:Hiragino Kaku Gothic Std;
+  border:none; 
+  margin:30px;
+  margin-top: 0px
+}
+
+
+.burger,.vegetable,.nope,.hellya,.nomore,.moreVege{
+  background-color: black;
+  font-size: 30px;
+  color:white;
+  font-family:Chalkduster;
+  border:none; 
+}
+
+ .yes:hover, .no:hover, .burger:hover,
+ .vegetable:hover, .nope:hover,.hellya:hover,.nomore:hover,.moreVege:hover,.playagain:hover{
+    background-color: white;
+    color:black;
+}
+
+
